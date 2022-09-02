@@ -1,7 +1,7 @@
 ﻿[
   {
     "Name": "Once Upon A Time",
-    "Image": "dotnet_bot.png",
+    "Image": "book.png",
     "StoryFile": "Resources/Raw/OnceUponATime.json",
     "Description": "Once upon a time where was a simple story."
   },
@@ -13,13 +13,13 @@
   },
   {
     "Name": "Swindle Stones",
-    "Image": "dotnet_bot.png",
+    "Image": "book.png",
     "StoryFile": "Resources/Raw/SwindleStones.json",
     "Description": ""
   },
   {
     "Name": "The Intercept",
-    "Image": "dotnet_bot.png",
+    "Image": "book.png",
     "StoryFile": "Resources/Raw/TheIntercept.json",
     "Description": ""
   }
