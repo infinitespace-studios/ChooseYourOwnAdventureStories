@@ -2,7 +2,7 @@
 
 This is a repo containing the stories used by [ChooseYourOwnAdventure](https://github.com/infinitespace-studios/ChooseYourOwnAdventure).
 
-You can use (Inky)[https://github.com/inkle/inky] to create the interactive
+You can use [Inky](https://github.com/inkle/inky) to create the interactive
 stories. Export them to `.json` format then submit a PR to add the new
 story. 
 
