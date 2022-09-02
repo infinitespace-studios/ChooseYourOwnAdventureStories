@@ -12,10 +12,16 @@
     "Description": "Find the clues, solve the crime!"
   },
   {
-    "Name": "The Void",
+    "Name": "Swindle Stones",
     "Image": "dotnet_bot",
-    "StoryFile": "Resources/Raw/TheVoid.json",
-    "Description": "A dark adventure into the depths of space and the human mind."
+    "StoryFile": "Resources/Raw/SwindleStones.json",
+    "Description": ""
+  },
+  {
+    "Name": "The Intercept",
+    "Image": "dotnet_bot",
+    "StoryFile": "Resources/Raw/TheIntercept.json",
+    "Description": ""
   }
 ]
 
