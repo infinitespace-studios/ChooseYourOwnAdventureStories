@@ -7,7 +7,7 @@
   },
   {
     "Name": "The Crime Scene",
-    "Image": "dotnet_bot.png",
+    "Image": "https://raw.githubusercontent.com/infinitespace-studios/ChooseYourOwnAdventureStories/main/Resources/Images/CrimeScene.png",
     "StoryFile": "Resources/Raw/CrimeScene.json",
     "Description": "Find the clues, solve the crime!"
   },
